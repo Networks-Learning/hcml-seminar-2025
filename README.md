@@ -7,7 +7,7 @@ The seminar course is open for Master students.
 
 Important dates:
 
-- Kickoff meeting: 21-10-2025 Teursday, TBD
+- Kickoff meeting: 21-10-2025 Tuesday, TBD
 - Registration deadline: TBD
 - Acceptance notification: TBD
 - Topic selection: TBD
@@ -35,7 +35,7 @@ You are expected to be familiar with the fundamentals of Machine Learning. Only 
 
 ## Registration
 
-Fill out this form: TBD
+Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdACPBal80VXnBoKzkbv4iqn-RWFYVENhdjTO3R6b_qysisdg/viewform?usp=header)
 
 You are required to enter your name, email address, student number and the list of the courses from the "intelligent systems" specialization that you have already passed, along with your obtained grade. We consider you fit for the seminar if you are a master's student and have passed courses about the fundamentals of machine learning with a satisfactory grade.
 
@@ -69,3 +69,4 @@ The paper assignment and presentation schedule is available TBD
 - Eleni Straitouri (estraitouri@mpi-sws.org)
 - Dr. Suhas Thejaswi (thejaswi@mpi-sws.org)
 - Nastaran Okati (nastaran@mpi-sws.org)
+
