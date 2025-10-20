@@ -7,12 +7,12 @@ The seminar course is open for Master students.
 Important dates:
 
 - Kickoff meeting: 21-10-2025 Tuesday, 15:00 - 16:00
-- Registration deadline: TBA
-- Acceptance notification: TBA
-- Topic selection: TBA
-- Paper assignment: TBA
-- Practice presentations: TBA
-- Final presentations: TBA
+- Registration deadline: 31-10-2025
+- Acceptance notification: 06-11-2025
+- Topic selection: 27-11-2025
+- Paper assignment: 04-12-2025
+- Practice presentations: from 12-01-2026 to 31-01-2026
+- Final presentations: throughout 02-26 and 03-26 
 
 Note: If you have any questions about the seminar, feel free to drop an email to one of the instructors.
 
