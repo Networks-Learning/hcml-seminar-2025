@@ -38,9 +38,9 @@ You are required to enter your name, email address, student number and the list 
 
 There are a limited number of research topics available, so our registrations are also limited. The final list of accepted registrations will be notified via email.
 
-Deadline: TBA
+Deadline: 31-10-2025
 
-Acceptance notification for the course will be sent by email on or before TBA.
+Acceptance notification for the course will be sent by email on or before 06-11-2025.
 
 ## Location:
 
